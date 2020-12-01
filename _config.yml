@@ -1,6 +1,6 @@
 title:              ByteGeo
 email:              support@bytegeo.com
-description:        Blog
+description:        Innovación en Tecnología Geoespacial.
 author:             ByteGeo
 baseurl:            ""
 url:                "https://bytegeo.github.io"
@@ -12,7 +12,7 @@ facebook_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics: G-Z6622DNT62 
+google_analytics: 
 
 # Build settings
 markdown:           kramdown
