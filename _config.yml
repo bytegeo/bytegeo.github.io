@@ -1,9 +1,9 @@
-title:              TL;DR
-email:              mmrojo@gmail.com
-description:        Reflexiones
-author:             Marcos Rojo
+title:              ByteGeo
+email:              support@bytegeo.com
+description:        Blog
+author:             ByteGeo
 baseurl:            ""
-url:                "https://mmrojo.github.io"
+url:                "https://bytegeo.github.io"
 
 # Social Profiles
 twitter_username:   
